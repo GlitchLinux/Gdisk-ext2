@@ -1,0 +1,8 @@
+#╔════════════════════════════════════════╗
+#║      Gdisk-ext2 v5.0 - Multibooter     ║
+#║  rEFInd ~ agFM ~ iPXE ~ ISO Scanner    ║
+#║ Gdiskchain ~ Vtoy ~ WinPe ~ Linux-Live ║
+#╚════════════════════════════════════════╝
+[Autorun]
+icon=Gdisk.ico
+label=Gdisk-ext2-v5.0
